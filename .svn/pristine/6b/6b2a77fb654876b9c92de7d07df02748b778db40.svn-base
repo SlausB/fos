@@ -1,6 +1,0 @@
-﻿	- multithreaded batch dropping:
-		thread "a": use batch
-		thread "b": use batch
-		thread "a": drop batch
-		thread "b": neven waits for batch
-		
